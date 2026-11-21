@@ -169,4 +169,25 @@ def main():
 
 main()
 ```
+<br>
+<br>
+
+**CLI_OUTPUT**
+
+<br>
+
+![click](assets/cli-output.png)
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+**SAVED_OUTPUT**
+
+<br>
+
+![click](assets/saved-output.png)
 
