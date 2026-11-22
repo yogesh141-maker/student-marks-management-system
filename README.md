@@ -39,7 +39,7 @@ __How to run:__
 **GUI OUTPUT**
 <br>
 <br>
-
+![GUI](assets/gui-output.png)
 
 
 <br>
@@ -53,5 +53,5 @@ __How to run:__
 
 <br>
 
-![click]
+![saved](assets/saved-output.png)
 
